@@ -11,10 +11,11 @@
 
 ### Connect with me:
 
-<img align="left" alt="harshit.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="harshitwitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="likdin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="harshitinsa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Harshit_Web" src="https://img.icons8.com/fluent/48/000000/domain.png"/>
+<img align="left" alt="Harshit_LinkdeIn" src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/>
+<img align="left" alt="Harshit_twitter" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>"
+<img align="left" alt="Harshit_Facebook" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>"
+<img align="left" alt="harshit_Instagram" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>"
 
 <br />
 
