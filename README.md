@@ -19,7 +19,16 @@
 <br />
 
 ### Stacks:
-<img src="https://img.icons8.com/color/144/000000/html-5.png"/>
+### Design:-
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+
+### Front-End:-
+<img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+
+
 
 
 
