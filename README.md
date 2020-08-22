@@ -22,9 +22,6 @@
 <br />
 
 ### Stacks:
-<br />
-
-### Design:
 
 <img align="left"  src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img align="left"  src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -32,11 +29,8 @@
 
 <br/>
 
-### Front-End:-
 <img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-
-### Backend-End:-
 
 
 <br />
