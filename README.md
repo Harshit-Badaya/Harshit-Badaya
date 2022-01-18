@@ -11,11 +11,10 @@
 
 ### Connect with me:
 
-<a href="https://harshit-badaya.netlify.app/" target ="_blank"> <img align="left" src="https://img.icons8.com/fluent/48/000000/domain.png"/></a>
-<img align="left" src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/>
-<img align="left" src="https://img.icons8.com/fluent/48/000000/twitter.png"/>
-<img align="left" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/>
-<img align="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+<a href="https://harshit-badaya.netlify.app/" target="_blank"> <img align="left" src="https://img.icons8.com/fluent/48/000000/domain.png"/></a>
+<a href="www.linkedin.com/in/harshit-badaya" target="_blank"><img align="left" src="https://img.icons8.com/color/48/000000/linkedin-circled.png"/></a>
+<a href="https://twitter.com/harshitb_14" target="_blank"><img align="left" src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://www.facebook.com/harshit.badaya" target="_blank"><img align="left" src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 
 <br />
 <br />
